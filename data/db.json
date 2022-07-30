@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Dear View",
+    "Body": "You make the world unique!",
+    "id": 0,
+    "currentlyPosted": false,
+    "currentlySelected": false
+  },
+  {
+    "Title": "Thank you",
+    "Body": "For taking timing to checkout my app",
+    "id": 1,
+    "currentlyPosted": false,
+    "currentlySelected": false
+  },
+  {
+    "Title": "Farewell",
+    "Body": "Have a great day",
+    "id": 2,
+    "currentlyPosted": false,
+    "currentlySelected": false
+  }
+]
