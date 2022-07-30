@@ -48,13 +48,13 @@ Link to the live application:
 
 ## Built With
 
-- Express.js
-- Node.js
+- HTML5 (Hardcoded and Dynamic)
+- CSS3
 - File system module (fs)
 - Path module
-- HTML (Hardcoded and Dynamic)
+- Express.js
 - JavaScript
-- CSS
+- Node.js
 
 ## Questions
 
