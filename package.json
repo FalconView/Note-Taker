@@ -1,5 +1,5 @@
 {
-  "name": "11th-challenge---note-taker",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/csabbah/full-stack-note-taker/issues"
+    "url": "https://github.com/falconview/taker/issues"
   },
-  "homepage": "https://github.com/csabbah/full-stack-note-taker#readme",
+  "homepage": "https://github.com/falconview/note-taker#readme",
   "keywords": [],
   "dependencies": {
     "express": "^4.17.3"
