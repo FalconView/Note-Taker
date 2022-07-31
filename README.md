@@ -44,7 +44,7 @@ Otherwise, to view the application, you can visit the live page via the link bel
 ## Links
 
 Link to the live application:
-[View here](https://zargar-note-taker.herokuapp.com/notes/)
+[View here](https://fullstack-mvc-techblog.herokuapp.com/)
 
 ## Built With
 
